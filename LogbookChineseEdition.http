@@ -1,0 +1,6 @@
+@LogbookChineseEdition_HostAddress = http://localhost:5206
+
+GET {{LogbookChineseEdition_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
